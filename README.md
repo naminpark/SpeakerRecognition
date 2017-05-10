@@ -1,4 +1,2 @@
 # AutoEncoder
-# AutoEncoder
-# SpeakerRecognition
-# SpeakerRecognition
+# SpeakerRecognition without domain-adaptation
